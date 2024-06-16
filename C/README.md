@@ -1,1 +1,0 @@
-# C programming  <a href ="https://commons.wikimedia.org/wiki/File:C_Programming_Language.svg" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="40" height="40"/></a> 
