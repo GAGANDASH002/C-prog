@@ -17,4 +17,4 @@ int main(){
     scanf("%d %d %d %d", &d0, &d1, &d2, &d3);
     int min_mult = min(d0, d1, d2, d3);
     printf("Minimum number of multiplication required : %d",min_mult);
-}
+} 
