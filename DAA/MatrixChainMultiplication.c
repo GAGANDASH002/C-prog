@@ -9,6 +9,7 @@ int min(int d0, int d1, int d2, int d3) {
     int min_mult2 = c11 + c23+(d0*d1*d3);
 
     return (min_mult1 < min_mult2) ? min_mult1 : min_mult2;
+   
 }
 
 int main(){
